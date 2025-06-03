@@ -1,1 +1,1 @@
-# Mental-State-Classification-using-EEG-signalsu
+# Mental-State-Classification-using-EEG-signals
